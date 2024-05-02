@@ -1,0 +1,16 @@
+.hero {
+    background-image: url(../assets/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* @media screen and (min-width: 640px){
+    .hero {
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .hero {
+      background-size: cover;
+    }
+} */
